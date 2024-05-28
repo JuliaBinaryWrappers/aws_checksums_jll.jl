@@ -1,11 +1,11 @@
 [[aws_checksums]]
 arch = "aarch64"
-git-tree-sha1 = "e2effaaa8764d20af7986f82c04de41d03f2652e"
+git-tree-sha1 = "9b89569397a058261a9988bacbc6e497b33d93ff"
 os = "macos"
 
     [[aws_checksums.download]]
-    sha256 = "c8b6b508d6d898c88f5612ac8afc05f8b2df4a5bd7cebe46e9d4addefc6f17c2"
-    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.17+1/aws_checksums.v0.1.17.aarch64-apple-darwin.tar.gz"
+    sha256 = "9c81a35e8c2054cbf77acf15131c5eda0b558ad9c9acd766ac0c523aa0576735"
+    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.18+0/aws_checksums.v0.1.18.aarch64-apple-darwin.tar.gz"
 [[aws_checksums]]
 arch = "aarch64"
 git-tree-sha1 = "6de902359761c485ffd53fd3404d0dcb28b9e580"
@@ -14,7 +14,7 @@ os = "linux"
 
     [[aws_checksums.download]]
     sha256 = "5cf97040c88240ece2bffeb131155c43c4f806780dbb7b38aa3688b2a82b9f7b"
-    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.17+1/aws_checksums.v0.1.17.aarch64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.18+0/aws_checksums.v0.1.18.aarch64-linux-gnu.tar.gz"
 [[aws_checksums]]
 arch = "aarch64"
 git-tree-sha1 = "18336735a35d6578d608e82002ca0a28a736121d"
@@ -23,7 +23,7 @@ os = "linux"
 
     [[aws_checksums.download]]
     sha256 = "d9757fde06ad883c86e6358dc81e7bc18057ca222dcaf294c18a41c1ea2af518"
-    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.17+1/aws_checksums.v0.1.17.aarch64-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.18+0/aws_checksums.v0.1.18.aarch64-linux-musl.tar.gz"
 [[aws_checksums]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -33,7 +33,7 @@ os = "linux"
 
     [[aws_checksums.download]]
     sha256 = "940462158454284afde257b029e3f85dc88f166fde6447dbfdeffb7838c4008f"
-    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.17+1/aws_checksums.v0.1.17.armv6l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.18+0/aws_checksums.v0.1.18.armv6l-linux-gnueabihf.tar.gz"
 [[aws_checksums]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -43,7 +43,7 @@ os = "linux"
 
     [[aws_checksums.download]]
     sha256 = "c6461f5138da953452c1c04642cb41aff7622e24a2f0a2eda8c991410bac53b7"
-    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.17+1/aws_checksums.v0.1.17.armv6l-linux-musleabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.18+0/aws_checksums.v0.1.18.armv6l-linux-musleabihf.tar.gz"
 [[aws_checksums]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -53,7 +53,7 @@ os = "linux"
 
     [[aws_checksums.download]]
     sha256 = "940462158454284afde257b029e3f85dc88f166fde6447dbfdeffb7838c4008f"
-    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.17+1/aws_checksums.v0.1.17.armv7l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.18+0/aws_checksums.v0.1.18.armv7l-linux-gnueabihf.tar.gz"
 [[aws_checksums]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -63,16 +63,16 @@ os = "linux"
 
     [[aws_checksums.download]]
     sha256 = "c6461f5138da953452c1c04642cb41aff7622e24a2f0a2eda8c991410bac53b7"
-    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.17+1/aws_checksums.v0.1.17.armv7l-linux-musleabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.18+0/aws_checksums.v0.1.18.armv7l-linux-musleabihf.tar.gz"
 [[aws_checksums]]
 arch = "i686"
-git-tree-sha1 = "a61806b985111759c2cdbca85550f1f82b32ccee"
+git-tree-sha1 = "54bc08b1a9c60784d7710c37dc8becbd5d86b652"
 libc = "glibc"
 os = "linux"
 
     [[aws_checksums.download]]
-    sha256 = "a84891255bf08c05e117ae782c35309c2886cf0a9b264ce6222b8c27532b8a34"
-    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.17+1/aws_checksums.v0.1.17.i686-linux-gnu.tar.gz"
+    sha256 = "f04c614fd240b8500c7eecc3184f0fd5ab0eb6640416b7dd8325cc43b0f9e992"
+    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.18+0/aws_checksums.v0.1.18.i686-linux-gnu.tar.gz"
 [[aws_checksums]]
 arch = "i686"
 git-tree-sha1 = "6b75dd2e08ba070789cb675f5e1c438649f28f63"
@@ -81,7 +81,7 @@ os = "linux"
 
     [[aws_checksums.download]]
     sha256 = "be41901f909062e4c6173ab46051b7deb7b90287ae54d5f7b0436b89e6649967"
-    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.17+1/aws_checksums.v0.1.17.i686-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.18+0/aws_checksums.v0.1.18.i686-linux-musl.tar.gz"
 [[aws_checksums]]
 arch = "powerpc64le"
 git-tree-sha1 = "b1cae3407fa44ba33d92bf52baa9aaad637bcd2c"
@@ -90,24 +90,24 @@ os = "linux"
 
     [[aws_checksums.download]]
     sha256 = "baaa3e13e3a6b05d8155730c3cd2b8ef0d4cb7652382cfe724ea457047a102af"
-    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.17+1/aws_checksums.v0.1.17.powerpc64le-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.18+0/aws_checksums.v0.1.18.powerpc64le-linux-gnu.tar.gz"
 [[aws_checksums]]
 arch = "x86_64"
-git-tree-sha1 = "32d72fcfd70a3c75e8ae846c3114d9a323859dfa"
+git-tree-sha1 = "4cd02e4569b881b7ae0781caad66513692539e56"
 os = "macos"
 
     [[aws_checksums.download]]
-    sha256 = "239f16ab0cb67b512f904cd3fe2202e4108bd4b7cda8d7803e04b12e462c272b"
-    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.17+1/aws_checksums.v0.1.17.x86_64-apple-darwin.tar.gz"
+    sha256 = "dd8cefde823443500040cc0b19e4792bb437503655dc4300bb0134c5120020bd"
+    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.18+0/aws_checksums.v0.1.18.x86_64-apple-darwin.tar.gz"
 [[aws_checksums]]
 arch = "x86_64"
-git-tree-sha1 = "a7eb8d283140d7bfb7a8acfc469783f235f38e47"
+git-tree-sha1 = "1337424e1429003633e87a1198271e535642b190"
 libc = "glibc"
 os = "linux"
 
     [[aws_checksums.download]]
-    sha256 = "b1ab27c94be93fa3ea0eccb0fd9ba170f37ebf511f05855636fc5e7fad881be6"
-    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.17+1/aws_checksums.v0.1.17.x86_64-linux-gnu.tar.gz"
+    sha256 = "10d09c944de8278246c18c4968fce9477be28d7003c2ae3704c5498f8775acf1"
+    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.18+0/aws_checksums.v0.1.18.x86_64-linux-gnu.tar.gz"
 [[aws_checksums]]
 arch = "x86_64"
 git-tree-sha1 = "75d1044774b36ea0f46c48b4cb3a8b5305f0de56"
@@ -116,20 +116,20 @@ os = "linux"
 
     [[aws_checksums.download]]
     sha256 = "14d045f101d6dc2efc1d7d6f17223e53624d00c94840ea284fbc98b80dec0224"
-    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.17+1/aws_checksums.v0.1.17.x86_64-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.18+0/aws_checksums.v0.1.18.x86_64-linux-musl.tar.gz"
 [[aws_checksums]]
 arch = "x86_64"
-git-tree-sha1 = "a416aa1ad143860fe121b8b1290ee217b0fcfd3e"
+git-tree-sha1 = "051a1c96ae0a7ac5e22332a5a453e79750cd79cb"
 os = "freebsd"
 
     [[aws_checksums.download]]
-    sha256 = "669aadec5f4c6e98e3538eaf91c276d6fe59acae83daeca548baf3b5c27f154e"
-    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.17+1/aws_checksums.v0.1.17.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "f1f8383026f9a801626887623464b1f0a53ca1660e48c9189a250331e931ac62"
+    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.18+0/aws_checksums.v0.1.18.x86_64-unknown-freebsd.tar.gz"
 [[aws_checksums]]
 arch = "x86_64"
-git-tree-sha1 = "b7a94f0dd53cad292cc9a0062b42007097bf72a6"
+git-tree-sha1 = "c2be12ff11375ba41c1a788b65298ab0a6f8c493"
 os = "windows"
 
     [[aws_checksums.download]]
-    sha256 = "da2a7d50426144be071f8d3f6f66a80ded83c570b1e70945d2187402bb0fcf11"
-    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.17+1/aws_checksums.v0.1.17.x86_64-w64-mingw32.tar.gz"
+    sha256 = "5bdafde5d8a1b4f2e52e471d1c3d89ea9a5b7b8ef3a206b2f6d5e06f4295ef1a"
+    url = "https://github.com/JuliaBinaryWrappers/aws_checksums_jll.jl/releases/download/aws_checksums-v0.1.18+0/aws_checksums.v0.1.18.x86_64-w64-mingw32.tar.gz"
