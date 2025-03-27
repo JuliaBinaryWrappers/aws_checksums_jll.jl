@@ -1,6 +1,6 @@
 name = "aws_checksums_jll"
 uuid = "b2a88e68-78e7-5e94-8c20-c02986ec140e"
-version = "0.2.4+0"
+version = "0.2.5+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
