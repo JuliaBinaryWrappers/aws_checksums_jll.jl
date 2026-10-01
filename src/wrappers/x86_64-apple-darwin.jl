@@ -8,7 +8,7 @@ function __init__()
     JLLWrappers.@generate_init_header(aws_c_common_jll)
     JLLWrappers.@init_library_product(
         libaws_checksums,
-        "lib/libaws-checksums.1.0.0.dylib",
+        "lib/libaws-checksums.1.0.1.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
